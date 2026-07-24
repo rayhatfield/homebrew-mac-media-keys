@@ -1,6 +1,6 @@
 cask "mac-media-keys" do
-  version "1.1.0"
-  sha256 "98f3eef1c211476d9d3036a86656f0d11434caf95e26a3e2f6c00f41ce9bdafb"
+  version "1.1.1"
+  sha256 "932b5eb69c8e4e5d176ccc8988cc0046cfadf18fc07640e159d3a8afc0384ee6"
 
   url "https://github.com/rayhatfield/mac-media-keys/releases/download/v#{version}/MacMediaKeys-#{version}.zip"
   name "Mac Media Keys"
